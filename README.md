@@ -1,6 +1,5 @@
 # drbill-allow-paste
-Purpose: 
-Allow paste on DrBill
+Simple Chrome extension to allow paste on DrBill
 
 Installation: 
 1. Download zip file of release. 
