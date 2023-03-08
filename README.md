@@ -1,5 +1,6 @@
 # drbill-allow-paste
-Purpose: Allow paste on DrBill
+Purpose: 
+Allow paste on DrBill
 
 Installation: 
 1. Download zip file of release. 
