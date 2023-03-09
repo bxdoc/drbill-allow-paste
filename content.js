@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         DrBill Allow Paste
-// @version      1.0
+// @version      1.1
 // @description  Allow pasting on DrBill
 // @author       Me
 // @downloadURL  https://www.dropbox.com/s/7up9kec9maqqnsp/drbill.user.js?dl=1
-// @match        https://app.dr-bill.ca/billing_records/new
+// @match        https://app.dr-bill.ca/*
 // @require 	 https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js
 // @grant        none
 // ==/UserScript==
