@@ -2,14 +2,14 @@
 "manifest_version": 2,
 "name": "DrBill Allow Paste",
 "description": "Allow pasting on DrBill",
-"version": "1.0",
+"version": "1.1",
 "icons": {
     "64": "icon.png"
   },
 "content_scripts":[
     {
       "matches":[
-        "https://app.dr-bill.ca/billing_records/new"
+        "https://app.dr-bill.ca/*"
       ],
       "exclude_matches":[
         "https://*.reddit.com/test/*"
